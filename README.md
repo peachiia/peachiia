@@ -4,7 +4,7 @@ I'm Peach, aka. peachiia. I'm a PhD Student in Biomedical Engineering.
 
 Due to the policy of the project, Most of my projects here are set to private. However, I'm trying to push it to the public and share everything that might be useful for others soon. I'll let you know about it later. :) 
 
-BTW, I put some note about *things that I'm doing* and *What I've seen* on (blog.peachiia.com)[https://blog.peachiia.com].
+BTW, I put some note about *things that I'm doing* and *What I've seen* on [https://blog.peachiia.com](blog.peachiia.com).
 
 Later then, See ya.
 Peachiia
