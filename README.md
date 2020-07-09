@@ -6,9 +6,10 @@ Due to the policy of the project, Most of my projects here are set to private. H
 
 BTW, I put some note about *things that I'm doing* and *What I've seen* on [blog.peachiia.com](https://blog.peachiia.com).
 
-Later then, See ya.
-Peachiia
-20200710 0058 +7
+Later then, See ya.  
+**Peachiia**
+
+*Update: 20200710 0058 +7*
 
 <!--
 **peachiia/peachiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
